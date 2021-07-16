@@ -1,0 +1,29 @@
+*{
+	padding: 0;
+	margin: 0;
+} 
+
+header{ 
+background-color: rgba(0, 0, 0, 0.65);
+padding: 24px 0 12px;
+}
+.conntainer{
+max-width: 1140px;
+margin: auto;
+
+
+}
+header .conntainer
+margin:auto
+
+
+
+
+
+
+}
+footer{
+	background-color: black;
+	height: 100px;
+	
+}
